@@ -1,6 +1,6 @@
 {
     "name": "YouTube Midnight Theme",
-    "description": "Convert Your YouTube Theme To Midnight Theme.",
+    "description": "Convert Your YouTube Dark Theme To Midnight Theme.",
     "version": "0.0.0.1",
     "manifest_version": 3,
     "content_scripts": [
