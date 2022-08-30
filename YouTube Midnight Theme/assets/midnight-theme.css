@@ -209,6 +209,10 @@ ytd-transcript-search-box-renderer {
     background: #1f1f2c !important;
 }
 
+ytd-modal-with-title-and-button-renderer {
+    background: #1f1f2c !important;
+}
+
 ytd-search-suggestion-report-dialog tp-yt-iron-autogrow-textarea#description-text .tp-yt-iron-autogrow-textarea[style-target=textarea] {
     color: #fff !important;
 }
