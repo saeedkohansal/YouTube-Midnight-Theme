@@ -1,0 +1,19 @@
+{
+    "name": "YouTube Midnight Theme",
+    "description": "Convert Your YouTube Theme To Midnight Theme.",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.youtube.com/*"
+            ],
+            "js": [
+                "assets/app.js"
+            ],
+            "css": [
+                "assets/midnight-theme.css"
+            ]
+        }
+    ]
+}
