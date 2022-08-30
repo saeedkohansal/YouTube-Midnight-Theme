@@ -1,0 +1,238 @@
+#container.ytd-masthead {
+    background: #444460 !important
+}
+
+#channel-header.ytd-c4-tabbed-header-renderer {
+    background: #18182d !important;
+}
+
+ytd-carousel-header-renderer {
+    background: #18182d !important;
+}
+
+#tabs-inner-container.ytd-c4-tabbed-header-renderer {
+    background: #18182d !important;
+}
+
+ytd-app {
+    background: #303042 !important;
+}
+
+ytd-browse[page-subtype=channels] {
+    background: #303042 !important;
+}
+
+#chips-wrapper.ytd-feed-filter-chip-bar-renderer {
+    background: #494965 !important;
+}
+
+ytd-feed-filter-chip-bar-renderer[is-dark-theme] #right-arrow.ytd-feed-filter-chip-bar-renderer:before {
+    background: linear-gradient(to left, #494965 20%, #49496524 80%) !important;
+}
+
+ytd-feed-filter-chip-bar-renderer[is-dark-theme] #left-arrow.ytd-feed-filter-chip-bar-renderer:after {
+    background: linear-gradient(to right, #494965 20%, #49496526 80%) !important;
+}
+
+yt-chip-cloud-renderer[is-dark-theme] #right-arrow.yt-chip-cloud-renderer:before {
+    background: linear-gradient(to left, #303042 20%, #3030422e 80%) !important;
+}
+
+yt-chip-cloud-renderer[is-dark-theme] #left-arrow.yt-chip-cloud-renderer:after {
+    background: linear-gradient(to right, #303042 20%, #3030422e 80%) !important;
+}
+
+#left-arrow-button.yt-chip-cloud-renderer,
+#right-arrow-button.yt-chip-cloud-renderer {
+    background: #303042 !important;
+}
+
+ytd-multi-page-menu-renderer,
+ytd-simple-menu-header-renderer,
+ytd-active-account-header-renderer {
+    background: #1f1f2cf5 !important;
+}
+
+#left-arrow-button.ytd-feed-filter-chip-bar-renderer,
+#right-arrow-button.ytd-feed-filter-chip-bar-renderer {
+    background: #494965 !important;
+}
+
+ytd-settings-sidebar-renderer {
+    background: #1f1f2c !important;
+}
+
+tp-yt-paper-listbox {
+    background: #1f1f2c !important;
+}
+
+#search-icon-legacy.ytd-searchbox {
+    border: 1px solid #5c5c75 !important;
+}
+
+yt-confirm-dialog-renderer[dialog][dialog][dialog] {
+    background: #1f1f2c !important;
+}
+
+ytd-voice-search-dialog-renderer[dialog] {
+    background: #1f1f2c !important;
+}
+
+ytd-destination-button-renderer {
+    background: #1f1f2c !important;
+    border-radius: 14px !important;
+}
+
+.ytd-destination-button-renderer:hover {
+    background: #444460 !important;
+    border-radius: 14px !important;
+}
+
+#destination-content-root.ytd-destination-button-renderer {
+    border-radius: 14px !important;
+    transition: 500ms !important;
+}
+
+#guide-content.ytd-app {
+    background: #1f1f2c !important;
+}
+
+#container.ytd-searchbox {
+    background: #1f1f2c !important;
+}
+
+ytd-mini-guide-renderer {
+    background: #1f1f2c !important;
+}
+
+a.ytd-mini-guide-entry-renderer {
+    background: #1f1f2c !important;
+}
+
+#video-preview-container.ytd-video-preview {
+    background: #1f1f2c !important;
+}
+
+.flex-container.ytd-compact-station-renderer {
+    background: #303042 !important;
+}
+
+ytd-browse[page-subtype=trending][has-c4-tabbed-header-renderer] {
+    background: #303042 !important;
+}
+
+#content-attachment.ytd-backstage-post-renderer ytd-video-renderer.ytd-backstage-post-renderer,
+#content-attachment.ytd-backstage-post-renderer ytd-playlist-renderer.ytd-backstage-post-renderer {
+    padding: 12px !important;
+    background: #1f1f2c !important;
+}
+
+yt-report-form-modal-renderer[dialog][dialog][dialog] {
+    background: #1f1f2c !important;
+}
+
+ytd-sponsorships-offer-renderer[dialog][dialog][dialog] {
+    background: #1f1f2c !important;
+}
+
+.playlist-items.ytd-playlist-panel-renderer {
+    background: #1f1f2c !important;
+}
+
+.header.ytd-playlist-panel-renderer {
+    background: #1f1f2c !important;
+}
+
+#info-bar.ytd-miniplayer {
+    background: #1f1f2c !important;
+}
+
+ytd-playlist-sidebar-renderer {
+    background: #303042 !important;
+}
+
+ytd-alert-with-button-renderer[type=INFO],
+ytd-alert-with-button-renderer[type=SUCCESS] {
+    background: #1f1f2c !important;
+}
+
+ytd-browse[page-subtype=playlist] ytd-two-column-browse-results-renderer.ytd-browse,
+ytd-browse[page-subtype=show] ytd-two-column-browse-results-renderer.ytd-browse {
+    background: #18182d !important;
+}
+
+ytd-two-column-browse-results-renderer[page-subtype=history] #secondary.ytd-two-column-browse-results-renderer {
+    background: #18182d !important;
+}
+
+#tabs-inner-container.ytd-interactive-tabbed-header-renderer {
+    background: #18182d !important;
+}
+
+#bg.ytd-interactive-tabbed-header-renderer {
+    fill: #18182d !important;
+}
+
+#card-title.ytd-search-refinement-card-renderer {
+    background: #1f1f2c !important;
+}
+
+ytd-expandable-metadata-renderer {
+    background: #1f1f2c !important;
+}
+
+tp-yt-paper-dialog {
+    background: #1f1f2c !important;
+}
+
+ytd-offline-promo-renderer[dialog][dialog][dialog] {
+    background: #1f1f2c !important;
+}
+
+ytd-transcript-segment-list-renderer {
+    background: #1f1f2c !important;
+}
+
+ytd-transcript-search-box-renderer {
+    background: #1f1f2c !important;
+}
+
+.input-container.ytd-transcript-search-box-renderer {
+    background: #303042 !important;
+}
+
+.style-scope ytd-transcript-search-panel-renderer {
+    background: #1f1f2c !important;
+}
+
+#header.ytd-engagement-panel-title-header-renderer {
+    background: #1f1f2c !important;
+}
+
+ytd-search-suggestion-report-dialog tp-yt-iron-autogrow-textarea#description-text .tp-yt-iron-autogrow-textarea[style-target=textarea] {
+    color: #fff !important;
+}
+
+#poll-votes.ytd-backstage-poll-renderer {
+    background: transparent !important;
+}
+
+#link-list-container.ytd-channel-about-metadata-renderer a.yt-simple-endpoint.ytd-channel-about-metadata-renderer {
+    color: #0ff !important;
+    font-size: 2rem !important;
+    line-height: 2.8rem !important;
+}
+
+.subheadline.ytd-channel-about-metadata-renderer {
+    font-size: 2.6rem !important;
+}
+
+#description.ytd-channel-about-metadata-renderer,
+#bio.ytd-channel-about-metadata-renderer {
+    font-size: 2rem !important;
+    line-height: 3rem !important;
+}
+
+#details-container.ytd-channel-about-metadata-renderer table.ytd-channel-about-metadata-renderer {
+    font-size: 2rem !important;
+}
