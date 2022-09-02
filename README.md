@@ -1,13 +1,13 @@
 # YouTube Midnight Theme
 
-_Coming Soon_
+_How To Convert YouTube Dark Theme To Midnight Theme_
 
 ![Thumbnail](https://raw.githubusercontent.com/saeedkohansal/YouTube-Midnight-Theme/main/YouTube%20Midnight%20Theme.png "Thumbnail")
 
-Coming Soon
+Convert your YouTube Dark Theme to Midnight Theme, It's a Chrome Extension and you can use it on all Chromium-Based Browsers such as Google Chrome, Brave, Chromium, Microsoft Edge, and more...
 
 ## Video Tutorial [ How To Install YouTube Midnight Theme ]
-[https://youtu.be/Coming Soon](https://youtu.be/Coming Soon)
+[https://youtu.be/FOzYpmu2sGE](https://youtu.be/FOzYpmu2sGE)
 
  
 
